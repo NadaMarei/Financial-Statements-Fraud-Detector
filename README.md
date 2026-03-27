@@ -158,7 +158,7 @@ SHAP (SHapley Additive exPlanations) provides interpretable explanations for mod
 
 ## Financial Features
 
-The model analyzes 217 financial indicators including:
+The model analyzes 217 financial indicators, including:
 
 ### Raw Financial Items
 - Balance Sheet: Cash, Receivables, Inventory, Fixed Assets, Liabilities, Equity
@@ -207,7 +207,7 @@ financial_fraud_detection/
 ├── utils.py                  # Utility functions
 ├── requirements.txt          # Python dependencies
 ├── README.md                 # Documentation
-└── processed_financial_data.csv  # Processed dataset (generated)
+└── financialreport.csv       # Processed dataset
 ```
 
 ## Troubleshooting
@@ -235,7 +235,7 @@ financial_fraud_detection/
 
 ## License
 
-This project is provided for educational and research purposes.
+This project is provided for research purposes.
 
 ## Acknowledgments
 
